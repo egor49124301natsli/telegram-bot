@@ -3,3 +3,4 @@ firebase-admin
 requests
 aiohttp
 python-dotenv
+aiogram==2.25.1

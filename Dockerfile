@@ -5,5 +5,6 @@ COPY . /app
 
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-CMD ["python", "multi_lang_bot.py"]
+CMD ["python", "bot.py"]
+
 
